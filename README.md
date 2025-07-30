@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI Tool<br>👯 I’m looking to collaborate on projects that require deep thinking and advanced problem solving skills<br>🌱 I’m currently learning Node.js<br>💬 Ask me about any backend issues or solutions
+🔭 I’m currently working on Building A Full Custom CRM To Assist Businesses Do Marketing Easy<br>👯 I’m looking to collaborate on projects that require deep thinking and advanced problem solving skills<br>🌱 I’m currently learning Node.js<br>💬 Ask me about any backend issues or solutions
 
 
 ## 🌐 Socials:
